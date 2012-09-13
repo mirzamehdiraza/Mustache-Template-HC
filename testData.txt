@@ -1,0 +1,15 @@
+{
+	"host_name": "Joseph Shoop",
+	"first_name": "Ken's",
+	"event_name": "Birthday",
+	"event_year": 2012,
+	"event_day": 23,
+	"event_monthyear": "March 2012",
+	"event_time": "6-10",
+	"event_ampm": "PM",
+	"event_openbartime": "6-8",
+	"event_openbarampm": "PM",
+	"event_price": "$20",
+	"event_location": "ROGUE BAR & RESTAURANT",
+	"event_address": "5th Avenue (7th St.)"
+}
