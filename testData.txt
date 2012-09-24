@@ -11,5 +11,25 @@
 	"event_openbarampm": "PM",
 	"event_price": "$20",
 	"event_location": "ROGUE BAR & RESTAURANT",
-	"event_address": "5th Avenue (7th St.)"
+	"event_address": "5th Avenue (7th St.)",
+	"host_a": {
+			"first_name":"Rachel",
+			"last_name":"WOODHOUSE",
+			"avatar":"images/images/Copy-of-BH_HC_InviteEmailRY_10.jpg"
+		 },
+	"host_b": {
+			"first_name":"Josephine",
+			"last_name":"SHAW",
+			"avatar":"images/images/Copy-of-BH_HC_InviteEmailRY_07.jpg"
+		 },
+	"host_c": {
+			"first_name":"Katie",
+			"last_name":"WILLIAMS",
+			"avatar":"images/images/Copy-of-BH_HC_InviteEmailRY_13.jpg"
+		},
+	"host_d":{
+			"first_name":"Simona",
+			"last_name":"CUNINGHAM",
+			"avatar":"images/images/Copy-of-BH_HC_InviteEmailRY_12.jpg"
+		}
 }
