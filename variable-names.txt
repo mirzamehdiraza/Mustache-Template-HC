@@ -1,4 +1,4 @@
-﻿first_name
+first_name
 host_name
 event_name
 event_description
@@ -15,19 +15,19 @@ event_location
 event_address
 event_url
 host_rows
-	host_a
-		first_name
-        	last_name
-        	avatar
-	host_b
-        	first_name
-        	last_name
-        	avatar
+    host_a
+        first_name
+        last_name
+        avatar
+    host_b
+        first_name
+        last_name
+        avatar
 	host_c
-        	first_name
-        	last_name
-        	avatar
+        first_name
+        last_name
+        avatar
 	host_d
-        	first_name
-        	last_name
-        	avatar
+        first_name
+        last_name
+        avatar
