@@ -1,0 +1,8 @@
+Sign Up/Sign up to host your own event/Make it happen before space runs out - {{sign_up_url}}
+About - {{about_url}}
+How It Works {{how_it_works_url}}
+Privacy - {{privacy_url}}
+Terms & Conditions {{TC_url}}
+Facebook {{fb_url}}
+Twitter {{twitter_url}}
+unsubscribe {{unsubscribe_url}}
