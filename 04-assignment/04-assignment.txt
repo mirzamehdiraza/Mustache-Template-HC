@@ -1,0 +1,19 @@
+Hi Raza,
+
+I hope this message finds you well.  The following are instructions for assignment #4.
+
+All files are in the Mustache-Template-HC repo, in the 04-assignment directory.
+
+Just like the last two assignments, for this assignment, please produce a single HTML file and all of the supporting image files.
+
+This assignment is fairly straightforward, except for one important element: the images of the friends.  The number of friends being displayed for each individual email will vary, therefore we need you to create a "grouping" for each of the friend elements (Date, White Line, Picture, and Name) in a way where the code is repeatable for each friend.  We will take care of all of the logic and looping, we just need you to produce the HTML in a way so that it can be repeated for each friend.  Although the PSD file contains 8 friends, please only create one row of 5 friends (i.e. don't worry about the 2nd row with 3 firends).
+
+Another important lesson that we learned during the last assignment was that the "background" attribute of the <td> element is not supported in several very popular email clients like Outlook. In order to gracefully handle such clients, please be sure to always include the "bgcolor" attribute with all <td> elements that also contain the background attribute.  I have included the final version of the last assignment so that you can see what we eventually used.
+
+Finally, the Birthday Emails.pdf file identifies all of the hyperlinks within the application.
+
+Please let me know if you have any questions and when you think you can complete this assignment.
+
+Thanks,
+
+John
