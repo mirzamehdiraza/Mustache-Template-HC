@@ -1,0 +1,24 @@
+Hi Raza,
+
+The requirements for assignment #5 are complete and they are listed below.  This assignment like the past several require you to produce a single HTML file and supporting image files.
+
+All of the files you will need are in the 05-assignment folder in the Mustache-Template-HC repo on github.  These instructions are in the directory as instructions.txt.  Also included is "Final Email_Invite_12_19_12.jpg" which indicates all sections that will be a hyperlink and the master PSD file, "Final Email_Invite_12_19_12.psd".  I also included the last assignment files in the "EXAMPLE" directory.  Please use these files as reference.
+
+Top line of text should be left aligned in the case where the line breaks to a second line due to either a long {first_name} or a long {event_name}.
+
+The top image will be variable, but it will always be a fixed width (697px), but not a fixed height.  Please code accordingly.
+
+The {event_name} is the first line within the box surrounded by the gold colored box.  That text will be an anchor (i.e. <a> -- hyperlink).  The underline should be a normal anchor underline that is the following color: #666666.
+
+For the rows of hosts...each host should be a repeatable unit unto itself.  Each row should be repeatable as well.  This means that if we decide that the first row should only have 4 hosts and the second row should have 5 hosts, then the framework of the HTML should not have to change.  You can see the EXAMPLE\index.html file to see how we made the rows and each picture grouping repeatable for the last assignment.  You should use that as a guide.
+
+The bottom border line of the gold colored box has a glow effect applied to it.  If this is too challening to accomplish, you can use a line without the glow effect applied.
+
+The designer continues to use textured backgrounds in spite of our instructions not to.  In the cases where a background image in not supported we want the background color to be #333333.
+
+Please let me know if you have any questions.
+
+Thanks,
+
+John
+
